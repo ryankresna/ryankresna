@@ -1,3 +1,2 @@
 # ryankresna
-Penulisan Ilmiah
-Website Development
+Full-stack Website Developer
